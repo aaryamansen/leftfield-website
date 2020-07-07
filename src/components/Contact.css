@@ -1,0 +1,52 @@
+.Contact {
+
+    font-family: 'Manrope', sans-serif;
+    color: #EFF5FF;
+    font-size: 16px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: black;
+  
+
+}
+
+.ContactInfo {
+    font-family: 'Manrope', sans-serif;
+    font-size: 16px;
+  
+    padding: 2.5rem 2.5rem;
+    margin: 80px auto;
+    width: 84vw;
+    
+    color: #EFF5FF;
+  
+    position: relative;
+    overflow: hidden;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 4vw;
+}
+
+.Address h4 {
+    margin: 0;
+    font-size: 1rem;
+    margin-top: 0;
+}
+
+.Email h4 {
+    margin: 0;
+    font-size: 1rem;
+    margin-top: 0;
+}
+
+.Phone h4 {
+    margin: 0;
+    font-size: 1rem;
+    margin-top: 0;
+}
+
+.Address, .Email, .Phone p {
+    font-size: 1.5rem;
+    font-weight: 300;
+}

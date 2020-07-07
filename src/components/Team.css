@@ -1,0 +1,25 @@
+.Team {
+    font-family: 'Manrope', sans-serif;
+    color: #EFF5FF;
+    font-size: 16px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #0A1B2E;
+}
+
+.Team h2 {
+    font-size: 3rem;
+    font-family: 'IBM Plex Serif', serif;
+    font-weight: 400;
+    margin: 0rem;
+}
+
+.Team h4 {
+    font-size: 1.5rem;
+    color: #EFF5FF;
+}
+
+.TeamIntro {
+    width: 84vw;
+    margin: 40px auto;
+}
