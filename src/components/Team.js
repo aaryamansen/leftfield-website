@@ -1,7 +1,7 @@
 import React from 'react'
 import Bio from './Bio'
 
-import './team.css'
+import './Team.css'
 
 const Team = props => (
     <div className="Team">
