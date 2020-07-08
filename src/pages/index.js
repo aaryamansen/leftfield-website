@@ -3,7 +3,7 @@ import Link from 'gatsby-link';
 import NavBar from '../components/NavBar';
 import Services from '../components/Services';
 import IntroCard from '../components/IntroCard'
-import Header from '../components/Header'
+import Header from '../components/header'
 import Team from '../components/Team'
 import Contact from '../components/Contact'
 
