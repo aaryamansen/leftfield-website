@@ -6,7 +6,8 @@ const Contact = props => (
         <div className="ContactInfo">
             <div className="Address">
                 <h4>Address</h4>
-                <p>We are heaquartered in Amsterdam, with representative offices in New York, Chennai, Gurgaon and Kolkata</p>
+                <p>Veembroederhof 119</p>
+                <p>1019 HD Amsterdam</p>
             </div>
             <div className="Email">
                 <h4>Email Us</h4>

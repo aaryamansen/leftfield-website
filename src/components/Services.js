@@ -8,15 +8,15 @@ const Services = props => (
     <div className="ServicesContainer">
         <div className="ServicesIntro">
             <h4>Explore our Services</h4>
-            <h2>Leftfield offers services in two primary areas: Growth and Governmental Relations.</h2>
+            <h2>Leftfield can be your competitive advantage across two vital areas -</h2>
         </div>
         <GrowthCard
-        title="Growth Services"
+        title="Business Development"
         text="We are focused on all of those activities that help a business grow revenues, expand its customer base, increase its distribution, and enter new markets."
         image={require('../images/growth-data-graphic.png')} />
         <GovtCard
         title="Government Relations"
-        text="Consulting with our clients to help them better engage with all levels of government where appropriate or relevant to further their objectives, and helping them understand fully the implications of any policies that exist or are introduced that have a bearing on their business."
+        text="An advisory service that aims to help our clients engage more meaningfully and profitably with all levels of Government, across markets. An important aspect of this service is to help them fully understand the implications of existing or new policies and regulations that could have a bearing on their business and impact their growth."
         image={require('../images/govt-data-graphic.png')} />
         {/* 
         <StatefulGrowth

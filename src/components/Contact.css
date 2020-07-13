@@ -32,21 +32,27 @@
     margin: 0;
     font-size: 1rem;
     margin-top: 0;
+    margin-bottom: 1rem;
 }
+
 
 .Email h4 {
     margin: 0;
     font-size: 1rem;
     margin-top: 0;
+    margin-bottom: 1rem;
 }
 
 .Phone h4 {
     margin: 0;
     font-size: 1rem;
     margin-top: 0;
+    margin-bottom: 1rem;
 }
 
 .Address, .Email, .Phone p {
     font-size: 1.5rem;
     font-weight: 300;
+    margin-top: 0;
+    margin-bottom: 0;
 }
