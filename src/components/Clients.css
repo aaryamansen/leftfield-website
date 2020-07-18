@@ -1,25 +1,37 @@
-.ServicesContainer {
+.ClientsContainer {
     font-family: 'Manrope', sans-serif;
     color: #0A1B2E;
     font-size: 16px;
     padding-top: 40px;
     padding-bottom: 40px;
-    background-color: white;
+    background-color: lightblue;
 }
 
-.ServicesContainer h2 {
+.ClientsContainer h2 {
     font-size: 3rem;
     font-family: 'IBM Plex Serif', serif;
     font-weight: 400;
     margin: 0rem;
 }
 
-.ServicesContainer h4 {
+.ClientsContainer h4 {
     font-size: 1.5rem;
     color: #0A1B2E;
 }
 
-.ServicesIntro {
+.ClientsIntro {
     width: 84vw;
     margin: 40px auto;
+}
+
+.Clients {
+    width: 84vw;
+    margin: 80px auto 0px auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 40px;
+}
+
+.Clients img {
+    margin-bottom: 80px;
 }

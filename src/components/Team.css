@@ -23,3 +23,18 @@
     width: 84vw;
     margin: 40px auto;
 }
+
+.AdvisorsIntro h4 {
+    font-size: 2rem;
+    color: white;
+    width: 84vw;
+    margin: 80px auto 40px auto;
+}
+
+.Advisors {
+    width: 84vw;
+    margin: 40px auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 40px;
+}
