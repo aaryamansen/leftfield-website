@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'gatsby-link';
+import '../layouts/index.css'
 
 import NavBar from '../components/NavBar';
 import Services from '../components/Services';
