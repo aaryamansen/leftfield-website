@@ -6,8 +6,8 @@ const IntroCard = props => (
         <div class="IntroContainer">
             <div className="IntroInfo">
                 <h1>Leftfield is a growth company.</h1>
-                <h2>Which means, we exist to help you grow.</h2>
-                <p>We are a bunch of battle-tested veterans who have helped business leaders across United States, Europe and Asia to not just scale up their revenues, market presence or market share, but to scale up their ambition.</p>
+                <h2>We exist to help you scale.</h2>
+                <p>We are battle-tested consultants who have helped business leaders across United States, Europe and Asia to not just grow their revenues, market presence or market share, but to scale up their ambition.</p>
             </div>
             <div className="IntroImage">
                 <img width="300" src={props.image} />

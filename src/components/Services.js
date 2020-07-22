@@ -12,11 +12,11 @@ const Services = props => (
         </div>
         <GrowthCard
         title="Business Development"
-        text="We are focused on all of those activities that help a business grow revenues, expand its customer base, increase its distribution, and enter new markets."
+        text="We are focused on all of those activities that help a business grow revenues, expand its customer base, increase its distribution, and enter new markets. We do this by leveraging our senior enterprise relationships developed over time and by …."
         image={require('../images/growth-data-graphic.png')} />
         <GovtCard
         title="Government Relations"
-        text="An advisory service that aims to help our clients engage more meaningfully and profitably with all levels of Government, across markets. An important aspect of this service is to help them fully understand the implications of existing or new policies and regulations that could have a bearing on their business and impact their growth."
+        text="A service that helps our clients engage more meaningfully and profitably with all levels of government in the US and EU. We help you win government contracts and secure non-dilutive government financing."
         image={require('../images/govt-data-graphic.png')} />
         {/* 
         <StatefulGrowth

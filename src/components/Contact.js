@@ -13,10 +13,6 @@ const Contact = props => (
                 <h4>Email Us</h4>
                 <p>mohan@leftfield-services.com</p>
             </div>
-            <div className="Phone">
-                <h4>Call Us</h4>
-                <p>+31 (0) 20 890 2143 </p>
-            </div>
         </div>
     </div>
 )
