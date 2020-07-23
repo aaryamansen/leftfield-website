@@ -26,7 +26,7 @@ const Team = props => (
                 image={require('../images/marcus-image.jpg')}
                 linkedin="https://www.linkedin.com/in/marcus-matthews/" />
             <Bio
-                name="TBD"
+                name="TBA"
                 position="Senior Director - North America"
                 text="LFS will soon announce our Senior Director, North America. He is already actively engaged in assisting our clients in engaging with Federal agencies and in sourcing relevant opportunities in a number of states in the East Coast and the Midwest.  Prior to joining the LFS team, he founded and built a highly successful government affairs consulting firm that supported a broad range of companies with their government contracting and public fund raising efforts. Over 15 years, they delivered significant results for their clients at the Federal level, in 21 states, and dozens of cities and counties. That entity was sold to a much larger international firm. He started as a staff member on the Hill, rapidly rising to become a senior member of staff supporting one of the highest ranked senators in Majority Leadership at that time.  In that role, he worked with hundreds of community & economic development groups, municipal & state leaders, and trade associations. This broad and deep network of long-standing relationships has allowed him to work effectively and successfully with 3 different presidential administrations over the last 2 decades."
                 image={require('../images/tbd.png')} />

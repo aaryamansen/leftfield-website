@@ -8,7 +8,7 @@ const Services = props => (
     <div className="ServicesContainer">
         <div className="ServicesIntro">
             <h4>Explore our Services</h4>
-            <h2>Leftfield can be your competitive advantage across two vital areas -</h2>
+            <h2>Leftfield is your competitive advantage across two vital areas -</h2>
         </div>
         <GrowthCard
         title="Business Development"
