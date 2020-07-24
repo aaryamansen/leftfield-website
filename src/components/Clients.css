@@ -1,32 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
 .ClientsContainer {
-    font-family: 'Manrope', sans-serif;
+    font-family: 'Work Sans', sans-serif;
     color: #0A1B2E;
     font-size: 16px;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    background-color: lightblue;
+    letter-spacing: -0.02rem;
+    background-color: lightcyan;
 }
 
-.ClientsContainer h2 {
+.ClientsContainer h1 {
     font-size: 3rem;
-    font-family: 'IBM Plex Serif', serif;
-    font-weight: 400;
-    margin: 0rem;
-}
-
-.ClientsContainer h4 {
-    font-size: 2rem;
-    color: #0A1B2E;
+    color: black;
 }
 
 .ClientsIntro {
-    width: 84vw;
-    margin: 40px auto;
+    padding: 2rem 4rem;
 }
 
 .Clients {
-    width: 84vw;
-    margin: 80px auto 0px auto;
+    padding: 2rem 4rem;
+    margin: 0px auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     column-gap: 40px;

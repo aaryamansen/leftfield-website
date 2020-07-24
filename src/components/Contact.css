@@ -1,6 +1,6 @@
 .Contact {
 
-    font-family: 'Manrope', sans-serif;
+    font-family: 'Work Sans', sans-serif;
     color: #EFF5FF;
     font-size: 16px;
     padding-top: 40px;
@@ -11,12 +11,10 @@
 }
 
 .ContactInfo {
-    font-family: 'Manrope', sans-serif;
+    font-family: 'Work Sans', sans-serif;
     font-size: 16px;
   
-    padding: 2.5rem 2.5rem;
-    margin: 80px auto;
-    width: 84vw;
+    padding: 2rem 4rem;
     
     color: #EFF5FF;
   

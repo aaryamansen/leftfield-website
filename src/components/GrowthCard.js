@@ -1,4 +1,5 @@
 import React from 'react'
+import Link from 'gatsby-link';
 import './GrowthCard.css'
 
 const GrowthCard = props => (
@@ -12,7 +13,7 @@ const GrowthCard = props => (
                 <img width="300" src={props.image} />
             </div>
         </div>
-        <button>Learn More</button>
+        <Link to="/page-2"><button>Learn More</button></Link>
     </div>
 )
 

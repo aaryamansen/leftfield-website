@@ -1,5 +1,6 @@
-import React from 'react'
-import './GovtCard.css'
+import React from 'react';
+import Link from 'gatsby-link';
+import './GovtCard.css';
 
 const GovtCard = props => (
     <div className="GovtCard">
@@ -12,7 +13,7 @@ const GovtCard = props => (
                 <img width="300" src={props.image} />
             </div>
         </div>
-        <button>Learn More</button>
+        <Link to="/page-2"><button>Learn More</button></Link>
     </div>
 )
 

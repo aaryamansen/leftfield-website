@@ -4,7 +4,7 @@ import './Clients.css';
 const Clients = props => (
     <div className="ClientsContainer">
         <div className="ClientsIntro">
-            <h4>Our Clients</h4>
+            <h1>Clients</h1>
         </div>
         <div className="Clients">
             <img width="200px"src={require('../images/client-logo.png')} />
