@@ -35,7 +35,7 @@ const TeamPreview = props => (
                         name="Bill Pazos"
                     />
                     <BioPreview
-                        image={require('../images/sanjay-image.JPG')}
+                        image={require('../images/sanjay-image.png')}
                         name="Sanjay Ram"
                     />
                 </div>
