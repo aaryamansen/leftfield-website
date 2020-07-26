@@ -6,7 +6,7 @@ import NavBar from '../components/NavBar';
 import Services from '../components/Services';
 import IntroCard from '../components/IntroCard'
 import Header from '../components/header'
-import Team from '../components/Team'
+import TeamPreview from '../components/TeamPreview'
 import Contact from '../components/Contact'
 import Clients from '../components/Clients'
 
@@ -46,7 +46,7 @@ const IndexPage = () => (
     </div>
 
     <Clients />
-    <Team />
+    <TeamPreview />
     <Contact />
 
   </div>

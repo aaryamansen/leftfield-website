@@ -13,25 +13,25 @@ const SecondPage = () => (
       <br />
       <h2>Business Development</h2>
       <p>
-        By helping clients identify and successfully engage with enterprise clients in the public and private sectors, the team at LFS has delivered over $800 Million in contracts to clients over the last decade.
+        By helping clients identify and successfully engage with enterprise clients in the public and private sectors, the team at LFS has delivered $750 Million in contracts to clients over the last decade.
         <br />
         <br />
         LFS specializes in helping companies expand their business development and revenue generation activities in some of the largest economic areas in the world: the United States, the European Union, S-E Asia, and India.
         <br />
         <br />
-        In the United States, the LFS team has 20 years of experience in successfully helping clients sell their products and services into various departments of the Federal government and a number of federal and state agencies.  Over that time, the team has delivered over $500 Million in revenues for our clients from government and agency engagements.
+        The LFS team has 20 years of experience in successfully creating opportunities and winning orders from almost every department and agency of the Federal government, 21 states,and dozens of s state agencies local and municipal governments.  Over the last decade, the team has delivered $500 Million in revenues for our clients from government and agency engagements.
         <br />
         <br />
-        The team also has successfully delivered business for clients from some of the largest firms in the US economy in a range of sectors including Healthcare, Financial Services, Telecommunications, Defense, and Information Technology.  Our efforts have delivered over $200 million in revenues for our clients out of accounts in the private sector.
+        The team has also delivered over $250 Million in revenues for clients from some of the largest global firms in Healthcare, Financial Services, Telecommunications, Defense, and Information Technology.
         <br />
         <br />
-        LFS can help our clients in the following ways:
+        We work with our clients to:
         <br />
         <ol>
-          <li>Identify relevant opportunities</li>
-          <li>Position the client and their offering to maximize the chances of a Win</li>
-          <li>Assist the client in the execution of business development activities</li>
-          <li>Inform and guide the client through the procurement process</li>
+          <li>Identity and create relevant opportunities</li>
+          <li>Position their offering to maximize the chances of a win</li>
+          <li>Assist in the execution of all business development activities</li>
+          <li>Work with the client through the entire process</li>
         </ol>
       </p>
       <br />

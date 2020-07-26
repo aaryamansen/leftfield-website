@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 
-.CoreTeam {
+.CoreTeamP {
     font-family: 'Work Sans', sans-serif;
     color: black;
     font-size: 16px;
@@ -11,26 +11,46 @@
     padding: 2rem 4rem;
 }
 
-.CoreTeam h2 {
-    font-size: 3rem;
+.CoreTeamP h2 {
+    font-size: 4rem;
     font-family: 'Work Sans', sans-serif;
     font-weight: 400;
-    margin: 0rem;
+    margin-top: 4rem;
 }
 
-.CoreTeam h1 {
+.CoreTeamP h1 {
     font-size: 3rem;
     font-weight: 800;
     color: black;
+    margin-top: 1rem;
 }
 
-.AdvisorsIntro h4 {
+.TCont h1 {
     font-size: 2rem;
+    font-weight: 600;
+    color: black;
+    margin-top: 1rem;  
+}
+
+.TCont h3 {
+    font-size: 1.5rem;
+    color: black;
+    margin-top: 0.25rem;  
+    margin-bottom: 1rem;
+}
+
+.AdvisorsIntroP h4 {
+    font-size: 1rem;
     color: black;
 }
 
-.Advisors {
+.ACont {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 40px;
+}
+.TCont {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
     column-gap: 40px;
 }

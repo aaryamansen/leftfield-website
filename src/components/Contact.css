@@ -28,7 +28,7 @@
 
 .Address h4 {
     margin: 0;
-    font-size: 1rem;
+    font-size: 2rem;
     margin-top: 0;
     margin-bottom: 1rem;
 }
@@ -36,9 +36,10 @@
 
 .Email h4 {
     margin: 0;
-    font-size: 1rem;
+    font-size: 2rem;
     margin-top: 0;
     margin-bottom: 1rem;
+    font-weight: 400;
 }
 
 .Phone h4 {
@@ -46,6 +47,7 @@
     font-size: 1rem;
     margin-top: 0;
     margin-bottom: 1rem;
+    font-weight: 400;
 }
 
 .Address, .Email, .Phone p {
@@ -53,4 +55,5 @@
     font-weight: 300;
     margin-top: 0;
     margin-bottom: 0;
+    font-weight: 400;
 }

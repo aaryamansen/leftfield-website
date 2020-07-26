@@ -12,7 +12,7 @@ const Team = props => (
             </div>
             <Bio
                 name="Mohan Ramani"
-                position="CEO"
+                position="Managing Director"
                 text="Mohan is an experienced entrepreneur who has built and managed companies in the technology, manufacturing, government and financial services sectors. He has extensive international experience in sales and business development, P&L management, strategy development, and execution with both start-up and mature organizations in the United States, Europe and India. Over the last decade, he has helped deliver significant enterprise value for clients by delivering significant business development opportunities with large enterprise customers, establishing effective distribution channels in new markets, and expanding their market share in their existing markets. As Founder and Managing Director at Leftfield Services, he brings all of his experience, knowledge and relationships to bear to achieve our clients’ objectives.
                 "
                 image={require('../images/mohan-image.jpeg')}

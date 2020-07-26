@@ -1,0 +1,40 @@
+.BioP {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+  
+    padding: 0rem 0rem;
+    margin-top: 80px;
+    margin-bottom: 60px;
+    
+    color: black;
+  
+    position: relative;
+    overflow: hidden;
+
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.BioP h1 {
+    margin: 0;
+    font-size: 1rem;
+}
+
+.BioP h3 {
+    margin: 0px 0 0 0;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.BioP p {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    margin: 20px 0 0 0;
+    
+}
+
+.BioP a {
+    margin: 0;
+    padding: 0;
+}
