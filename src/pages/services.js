@@ -22,7 +22,7 @@ const ServicesPage = () => (
         LFS specializes in helping companies expand their business development and revenue generation activities in some of the largest economic areas in the world: the United States, the European Union, South East Asia, and India.
         <br />
         <br />
-        The team has also delivered over $250 Million in revenues for clients from some of the largest global firms in Healthcare, Financial Services, Telecommunications, Defense, and Information Technology.
+        The team has delivered over $250 Million in revenues for clients from some of the largest global firms in Healthcare, Financial Services, Telecommunications, Defense, and Information Technology.
         <br />
         <br />
         We work with our clients to:
