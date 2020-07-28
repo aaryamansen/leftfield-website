@@ -15,7 +15,7 @@ const Team = props => (
                 position="Managing Director"
                 text="Mohan is an experienced entrepreneur who has built and managed companies in the technology, manufacturing, government and financial services sectors. He has extensive international experience in sales and business development, P&L management, strategy development, and execution with both start-up and mature organizations in the United States, Europe and India. Over the last decade, he has helped deliver significant enterprise value for clients by delivering significant business development opportunities with large enterprise customers, establishing effective distribution channels in new markets, and expanding their market share in their existing markets. As Founder and Managing Director at Leftfield Services, he brings all of his experience, knowledge and relationships to bear to achieve our clients’ objectives.
                 "
-                image={require('../images/mohan-image.jpeg')}
+                image={require('../images/mohan-image.jpg')}
                 linkedin="https://www.linkedin.com/in/mohan-ramani-4441b8/" />
             <Bio
                 name="Marcus Matthews"
@@ -35,9 +35,10 @@ const Team = props => (
             </div>
             <Bio
                 image={require('../images/bill-image.jpg')}
-                name="Bill Pazos"
+                name="William Pazos"
                 text="Bill is a carbon market pioneer who has managed emerging market and high yield investments for more than 25 years and currently serves as director of Kuber Energy, a renewable energy and climate finance advisory company in Singapore and COO & co-Founder of AirCarbon, a digital carbon exchange in Singapore.  Previously, he was a Managing Director at Standard Bank.  In this capacity he was the Global Head of Carbon origination and Finance, as well as a member of the board of Standard Merchant Bank Singapore.  As the CEO and founding partner of Ecoinvest Carbon S.A., a joint venture company with Bunge S.A., he built what became one of the world’s largest aggregator of carbon credits.
-                In his early career he was a bond trader at JP Morgan Chase (MHTCo.) in New York as well as a partner at Dartley a large Emerging Markets Fixed Income Fund.  He holds a Bachelor Degree in Economics with a concentration in Mathematics from The College of Wooster, Ohio, and an MBA in International Management from ASU’s Thunderbird Graduate School of International Management." />
+                In his early career he was a bond trader at JP Morgan Chase (MHTCo.) in New York as well as a partner at Dartley a large Emerging Markets Fixed Income Fund.  He holds a Bachelor Degree in Economics with a concentration in Mathematics from The College of Wooster, Ohio, and an MBA in International Management from ASU’s Thunderbird Graduate School of International Management."
+                linkedin="https://www.linkedin.com/in/william-pazos-1273a113/" />
             <Bio
                 image={require('../images/sanjay-image.png')}
                 name="Sanjay Ram"
@@ -45,7 +46,8 @@ const Team = props => (
  
                 His civic involvement has included serving as Chairman of the Board of Directors of Leadership Houston; Steering Committee Member – Houston General Plan; Senior Fellow – American Leadership Forum; President of the HESS Club; President of the Indo-American Chamber of Commerce of Greater Houston; Chairperson of the Houston Mayor's International Trade and Development Council (South Asia); City of Houston – Building and Standards Commission; Connecting Communities Initiative at Rice University's Kinder Institute; and Board of Directors of the Indo-American Charity Foundation.
                 
-                A graduate of BITS-Pilani and Texas A&M University, he is a registered Professional Engineer." />
+                A graduate of BITS-Pilani and Texas A&M University, he is a registered Professional Engineer."
+                linkedin="https://www.linkedin.com/in/sanjay-ramabhadran-293778a/" />
         </div>
     </div>
 )

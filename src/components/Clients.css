@@ -2,15 +2,15 @@
 
 .ClientsContainer {
     font-family: 'Work Sans', sans-serif;
-    color: #0A1B2E;
+    color: white;
     font-size: 16px;
     letter-spacing: -0.02rem;
-    background-color: lightcyan;
+    background-color: #23359F;
 }
 
 .ClientsContainer h1 {
     font-size: 3rem;
-    color: black;
+    color: white;
 }
 
 .ClientsIntro {
@@ -20,11 +20,29 @@
 .Clients {
     padding: 2rem 4rem;
     margin: 0px auto;
+    padding-bottom: 8rem;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     column-gap: 40px;
+    text-align: center;
+}
+
+.Clients a {
+    font-size: 2.5rem;
+    color: white;
+    font-weight: 800;
+    margin-bottom: 40px;
 }
 
 .Clients img {
     margin-bottom: 80px;
+}
+
+@media (max-width: 960px) {
+
+    .Clients {
+        display: flex;
+        flex-direction: column;
+    }
+
 }

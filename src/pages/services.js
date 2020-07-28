@@ -5,13 +5,16 @@ import '../layouts/index.css'
 import Header from '../components/header'
 import Contact from '../components/Contact'
 
-const SecondPage = () => (
+const ServicesPage = () => (
   <div className="ServPage">
     <Header />
+    <div className="ServICard">
+        <h1>Services</h1>
+    </div>
     <div className="ServPageContainer">
-      <h1>Services</h1>
       <br />
       <h2>Business Development</h2>
+      <img className="bigimg" src={require('../images/growth-big-graphic.png')} />
       <p>
         By helping clients identify and successfully engage with enterprise clients in the public and private sectors, the team at LFS has delivered $750 Million in contracts to clients over the last decade.
         <br />
@@ -38,8 +41,9 @@ const SecondPage = () => (
       <br />
       <br />
       <h2>Government Relations</h2>
+      <img className="bigimg" src={require('../images/govt-big-graphic.png')} />
       <p>
-        In addition to the commercial services outlined above, we also assist clients in their government relations and regulatory management needs through our sister entities that are registered to provide such services.
+        In addition to the commercial services outlined above, we also assist clients in their government relations and regulatory management.
         <br />
         <br />
         In that area, the relevant members of the team have:
@@ -52,7 +56,7 @@ const SecondPage = () => (
           <li>worked with three different Presidential administrations from both parties</li>
         </ul>
         <p>
-          In the EU, delivered c. 250 Million Euros in value to clients through a variety of mechanisms including access to low cost debt, infrastructure subsidies, and regulatory guidance.
+        In the EU, delivered c. €450M in value to clients through a variety of mechanisms including access to low cost debt, infrastructure subsidies, and regulatory guidance.
         </p>
         <p>
           Clients include:
@@ -60,7 +64,7 @@ const SecondPage = () => (
         <ul>
           <li>Fortune 500 and 5000 firms</li>
           <li>Trade Associations and Advocacy groups</li>
-          <li>College and Universities</li>
+          <li>Colleges and Universities</li>
           <li>Health Care and Hospital organizations</li>
           <li>Other companies of all shapes, stages and sizes</li>
         </ul>
@@ -70,4 +74,4 @@ const SecondPage = () => (
   </div>
 )
 
-export default SecondPage
+export default ServicesPage

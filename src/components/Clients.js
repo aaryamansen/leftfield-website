@@ -7,14 +7,9 @@ const Clients = props => (
             <h1>Clients</h1>
         </div>
         <div className="Clients">
-            <img width="200px"src={require('../images/client-logo.png')} />
-            <img width="200px"src={require('../images/client-logo.png')} />
-            <img width="200px"src={require('../images/client-logo.png')} />
-            <img width="200px"src={require('../images/client-logo.png')} />
-            <img width="200px"src={require('../images/client-logo.png')} />
-            <img width="200px"src={require('../images/client-logo.png')} />
-            <img width="200px"src={require('../images/client-logo.png')} />
-            <img width="200px"src={require('../images/client-logo.png')} />
+            <a href="https://www.accipitersystems.com">Accipeter Systems</a>
+            <a href="https://www.quizzify.com">Quizzify</a>
+            <a href="https://www.twisted-rope.com">Twisted Rope</a>
         </div>
     </div>
 )

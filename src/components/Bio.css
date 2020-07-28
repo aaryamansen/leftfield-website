@@ -13,6 +13,7 @@
 
     display: grid;
     grid-template-columns: 1fr 2fr;
+    column-gap: 2.5rem;
 }
 
 .Bio h1 {
@@ -70,4 +71,26 @@
 
 .LiCTA {
     margin: auto;
+}
+
+.lilogo {
+    margin-top: 1.5rem;
+}
+
+.bigimg {
+    width: 70vw;
+}
+
+@media (max-width: 960px) {
+
+    .Bio {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .bigimg {
+        width: 70vw;
+    }
+    
+
 }

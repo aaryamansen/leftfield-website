@@ -11,7 +11,7 @@ const TeamPreview = props => (
                     <BioPreview 
                         name="Mohan Ramani"
                         position="Managing Director"
-                        image={require('../images/mohan-image.jpeg')}
+                        image={require('../images/mohan-image.jpg')}
                         linkedin="https://www.linkedin.com/in/mohan-ramani-4441b8/"
                     />
                     <BioPreview
@@ -32,11 +32,13 @@ const TeamPreview = props => (
                 <div className="ACont">
                     <BioPreview
                         image={require('../images/bill-image.jpg')}
-                        name="Bill Pazos"
+                        name="William Pazos"
+                        linkedin="https://www.linkedin.com/in/william-pazos-1273a113/"
                     />
                     <BioPreview
                         image={require('../images/sanjay-image.png')}
                         name="Sanjay Ram"
+                        linkedin="https://www.linkedin.com/in/sanjay-ramabhadran-293778a/"
                     />
                 </div>
             </div>

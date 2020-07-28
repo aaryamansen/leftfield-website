@@ -21,6 +21,9 @@ a {
 
 .IntroBG {
     background-color: lightgoldenrodyellow;
+    background-image: url('../images/intro-image.jpg');
+    background-size: cover;
+    background-position: center;
 }
   
 .Intro {
@@ -43,29 +46,29 @@ a {
 }
 
 .IntroText {
-    margin-top: 100px;
+    margin-top: 6rem;
 }
 
 .Growth {
     display: grid;
     grid-template-columns: repeat(2,1fr);
-    height: 600px;
     -webkit-align-items:stretch;
     -webkit-box-align:stretch;
     -ms-flex-align:stretch;
     align-items:stretch;
     margin: 0;
+    margin-bottom: 4rem;
 }
 
 .Govt {
     display: grid;
     grid-template-columns: repeat(2,1fr);
-    height: 700px;
     -webkit-align-items:stretch;
     -webkit-box-align:stretch;
     -ms-flex-align:stretch;
     align-items:stretch;
     margin: 0;
+    margin-bottom: 4rem;
 }
 
 .TwoColText {
@@ -88,12 +91,33 @@ a {
     font-weight: 400;
 }
 
-.GrowthImg {
+.TwoColText h5 {
+    font-size: 2rem;
+    font-weight: 600;
+    color: #23359F;
+}
+
+
+.GrowthImgC {
     background-color: white;
+    vertical-align: middle;
+    text-align: center;
+    padding-top: 6rem;
+}
+
+.GrowthImg {
+    width: 500px;
+}
+
+.GovtImgC {
+    background-color: white;
+    vertical-align: middle;
+    text-align: center;
+    padding-top: 6rem;
 }
 
 .GovtImg {
-    background-color: white;
+    width: 500px;
 }
 
 .ClientsBG {
@@ -104,6 +128,7 @@ a {
 
 .ServPageContainer {
     margin: 4rem 12rem;
+    margin-bottom: 8rem;
 }
 
 .ServPageContainer h1 {
@@ -119,13 +144,61 @@ a {
     font-size: 1.5rem;
 }
 
+.ServICard {
+    color: white;
+    height: 300px;
+    background-color: #A3A7D9;
+    margin: 0;
+    padding-top: 80px;
+    text-align: center;
+}
 
+.ServICard h1 {
+    font-size: 6rem;
+    color: black;
+}
 
+.TeamICard {
+    color: white;
+    height: 300px;
+    background-color: #A3A7D9;
+    margin: 0;
+    padding-top: 80px;
+    text-align: center;
+}
+
+.TeamICard h1 {
+    font-size: 6rem;
+    color: black;
+}
+
+.ServPage {
+    padding: 0;
+    margin: 0;
+}
+
+.ContactICard {
+    color: white;
+    height: 300px;
+    background-color: #A3A7D9;
+    margin: 0;
+    padding-top: 80px;
+    text-align: center;
+}
+
+.ContactICard h1 {
+    font-size: 6rem;
+    color: black;
+}
 
 
 /* MOBILE */
 
-@media (max-width: 640px) {
+@media (max-width: 960px) {
+
+    body {
+        font-size: 2.5rem;
+    }
 
     .Intro {
         grid-template-columns: 1fr;
@@ -139,11 +212,31 @@ a {
         font-size: 2rem;
     }
 
+    .IntroBG {
+        background-image: none;
+        background-color: lightgoldenrodyellow;
+    }
+
     .Growth {
-        grid-template-columns: 1fr;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .GrowthImg {
+        width: 400px;
     }
 
     .Govt {
-        grid-template-columns: 1fr;
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 2.5rem;
+    }
+
+    .GovtImg {
+        width: 400px;
+    }
+
+    .ServPageContainer {
+        margin: 4rem 4rem;
     }
 }

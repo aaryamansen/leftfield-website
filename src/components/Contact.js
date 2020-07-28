@@ -6,8 +6,11 @@ const Contact = props => (
         <div className="ContactInfo">
             <div className="Address">
                 <h4>Address</h4>
-                <p>Veembroederhof 119</p>
-                <p>1019 HD Amsterdam</p>
+                <p>
+                    Veembroederhof 119
+                    <br />
+                    1019 HD Amsterdam
+                </p>
             </div>
             <div className="Email">
                 <h4>Email Us</h4>

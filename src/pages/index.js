@@ -30,19 +30,22 @@ const IndexPage = () => (
         <h4>SERVICES</h4>
         <h1>Business Development</h1>
         <p>We help our clients acquire new customers, expand their distribution channels, and enter new markets.</p>
-        <Link to="/">Learn More</Link>
+        <Link to="/"><h5>Learn More</h5></Link>
       </div>
-      <div className="TwoColImg GrowthImg"></div>
+      <div className="TwoColImg GrowthImgC">
+        <img className="GrowthImg" src={require('../images/growth-data-graphic.png')} />
+      </div>
     </div>
 
     <div className="Govt">
       <div className="TwoColText">
-        <h4>SERVICES</h4>
         <h1>Government Relations</h1>
         <p>A service that helps our clients engage more meaningfully and profitably with all levels of government in the US and EU. We help you win government contracts and secure non-dilutive government financing.</p>
-        <Link to="/">Learn More</Link>
+        <Link to="/"><h5>Learn More</h5></Link>
       </div>
-      <div className="TwoColImg GovtImg"></div>
+      <div className="TwoColImg GovtImgC">
+        <img className="GovtImg" src={require('../images/govt-data-graphic.png')} />
+      </div>
     </div>
 
     <Clients />

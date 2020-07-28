@@ -11,7 +11,7 @@ const BioPreview = props => (
             <h3>{props.position}</h3>
             <br />
             <a href={props.linkedin}>
-                <button>Connect on LinkedIn</button>
+                <img width="30" src={require('../images/in-logo-white.png')} />
             </a>
         </div>
     </div>

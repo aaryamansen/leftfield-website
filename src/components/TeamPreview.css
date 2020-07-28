@@ -3,11 +3,11 @@
 
 .CoreTeamP {
     font-family: 'Work Sans', sans-serif;
-    color: black;
+    color: white;
     font-size: 16px;
     padding-top: 40px;
     padding-bottom: 40px;
-    background-color: white;
+    background-color: #0D1331;
     padding: 2rem 4rem;
 }
 
@@ -21,27 +21,27 @@
 .CoreTeamP h1 {
     font-size: 3rem;
     font-weight: 800;
-    color: black;
+    color: white;
     margin-top: 1rem;
 }
 
 .TCont h1 {
     font-size: 2rem;
     font-weight: 600;
-    color: black;
+    color: white;
     margin-top: 1rem;  
 }
 
 .TCont h3 {
     font-size: 1.5rem;
-    color: black;
+    color: white;
     margin-top: 0.25rem;  
     margin-bottom: 1rem;
 }
 
 .AdvisorsIntroP h4 {
     font-size: 1rem;
-    color: black;
+    color: white;
 }
 
 .ACont {
@@ -49,8 +49,28 @@
     grid-template-columns: 1fr 1fr 1fr;
     column-gap: 40px;
 }
+
+.ACont h1 {
+    font-size: 2rem;
+    font-weight: 600;
+    color: white;
+    margin-top: 1rem; 
+}
+
 .TCont {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     column-gap: 40px;
+}
+
+@media (max-width: 960px) {
+    .ACont {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .TCont {
+        display: flex;
+        flex-direction: column;
+    }
 }

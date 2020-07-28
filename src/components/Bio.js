@@ -10,7 +10,7 @@ const Bio = props => (
                 <h3>{props.position}</h3>
                 <p>{props.text}</p>
                 <a href={props.linkedin}>
-                    <button>Connect on LinkedIn</button>
+                  <img className="lilogo" width="30" src={require('../images/in-logo.png')} />
                 </a>
             </div>
         </div>

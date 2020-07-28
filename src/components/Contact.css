@@ -6,7 +6,7 @@
     padding-top: 40px;
     padding-bottom: 40px;
     background-color: black;
-  
+    align-items: center;
 
 }
 
@@ -22,8 +22,8 @@
     overflow: hidden;
 
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    column-gap: 4vw;
+    grid-template-columns: 2fr 2fr 3fr;
+    column-gap: 2rem;
 }
 
 .Address h4 {
@@ -39,7 +39,6 @@
     font-size: 2rem;
     margin-top: 0;
     margin-bottom: 1rem;
-    font-weight: 400;
 }
 
 .Phone h4 {
@@ -56,4 +55,11 @@
     margin-top: 0;
     margin-bottom: 0;
     font-weight: 400;
+}
+
+@media (max-width: 960px) {
+    .ContactInfo {
+        display: flex;
+        flex-direction: column;
+    }
 }

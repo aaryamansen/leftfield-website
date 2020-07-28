@@ -34,3 +34,12 @@
     grid-template-columns: 1fr 1fr 1fr 1fr;
     column-gap: 40px;
 }
+
+@media (max-width: 960px) {
+
+    .CoreTeam {
+        padding: 2rem 2rem;
+    }
+
+
+}

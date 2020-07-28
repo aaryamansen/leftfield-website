@@ -9,6 +9,9 @@ import Team from '../components/Team'
 const TeamPage = () => (
   <div className="TeamPage">
     <Header />
+    <div className="TeamICard">
+        <h1>Team</h1>
+    </div>
     <br />
     <br />
     <br />
