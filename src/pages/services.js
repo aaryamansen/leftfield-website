@@ -22,9 +22,6 @@ const ServicesPage = () => (
         LFS specializes in helping companies expand their business development and revenue generation activities in some of the largest economic areas in the world: the United States, the European Union, South East Asia, and India.
         <br />
         <br />
-        The LFS team has 20 years of experience in successfully creating opportunities and winning orders from almost every department and agency of the Federal government, 21 states, and dozens of state agencies and local and municipal governments. Over the last decade, the team has delivered $500 Million in revenues for our clients from government and agency engagements.
-        <br />
-        <br />
         The team has also delivered over $250 Million in revenues for clients from some of the largest global firms in Healthcare, Financial Services, Telecommunications, Defense, and Information Technology.
         <br />
         <br />
@@ -46,6 +43,10 @@ const ServicesPage = () => (
         In addition to the commercial services outlined above, we also assist clients in their government relations and regulatory management.
         <br />
         <br />
+        The LFS team has 20 years of experience in successfully creating opportunities and winning orders from almost every department and agency of the Federal government, 21 states, and dozens of state agencies and local and municipal governments. Over the last decade, the team has delivered $500 Million in revenues for our clients from government and agency engagements.
+        <br />
+        <br />
+
         In that area, the relevant members of the team have:
         <br />
         <br />
@@ -56,7 +57,7 @@ const ServicesPage = () => (
           <li>worked with three different Presidential administrations from both parties</li>
         </ul>
         <p>
-        In the EU, delivered c. €450M in value to clients through a variety of mechanisms including access to low cost debt, infrastructure subsidies, and regulatory guidance.
+        In the EU, delivered €450M in value to clients through a variety of mechanisms including access to low cost debt, infrastructure subsidies, and regulatory guidance.
         </p>
         <p>
           Clients include:

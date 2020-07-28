@@ -40,7 +40,7 @@ const IndexPage = () => (
     <div className="Govt">
       <div className="TwoColText">
         <h1>Government Relations</h1>
-        <p>A service that helps our clients engage more meaningfully and profitably with all levels of government in the US and EU. We help you win government contracts and secure non-dilutive government financing.</p>
+        <p>A service that enables our clients to engage more meaningfully and profitably with all levels of government in the US and EU. We help you win contracts and secure government financing.</p>
         <Link to="/services"><h5>Learn More</h5></Link>
       </div>
       <div className="TwoColImg GovtImgC">

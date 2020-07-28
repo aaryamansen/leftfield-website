@@ -14,7 +14,7 @@ const Contact = props => (
             </div>
             <div className="Email">
                 <h4>Email Us</h4>
-                <p>mohan@leftfield-services.com</p>
+                <p>hello@leftfield-services.com</p>
             </div>
         </div>
     </div>

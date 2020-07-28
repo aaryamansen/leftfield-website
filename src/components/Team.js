@@ -13,7 +13,7 @@ const Team = props => (
             <Bio
                 name="Mohan Ramani"
                 position="Managing Director"
-                text="Mohan is an experienced entrepreneur who has built and managed companies in the technology, manufacturing, government and financial services sectors. He has extensive international experience in sales and business development, P&L management, strategy development, and execution with both start-up and mature organizations in the United States, Europe and India. Over the last decade, he has helped deliver significant enterprise value for clients by delivering significant business development opportunities with large enterprise customers, establishing effective distribution channels in new markets, and expanding their market share in their existing markets. As Founder and Managing Director at Leftfield Services, he brings all of his experience, knowledge and relationships to bear to achieve our clients’ objectives.
+                text="Mohan is an experienced entrepreneur who has built and managed companies in the technology, manufacturing, government and financial services sectors. He has extensive international experience in sales and business development, P&L management, strategy development, and execution with both start-up and mature organizations in the United States, Europe and India. Over the last decade, he has helped deliver significant enterprise value for clients by developing significant business development opportunities with large enterprise customers, establishing effective distribution channels in new markets, and expanding their market share in their existing markets. As Founder and Managing Director at Leftfield Services, he brings all of his experience, knowledge and relationships to bear to achieve our clients’ objectives.
                 "
                 image={require('../images/mohan-image.jpg')}
                 linkedin="https://www.linkedin.com/in/mohan-ramani-4441b8/" />
@@ -31,7 +31,7 @@ const Team = props => (
                 text="LFS will soon announce our Senior Director, North America. He is already actively engaged in assisting our clients in engaging with Federal agencies and in sourcing relevant opportunities in a number of states in the East Coast and the Midwest.  Prior to joining the LFS team, he founded and built a highly successful government affairs consulting firm that supported a broad range of companies with their government contracting and public fund raising efforts. Over 15 years, they delivered significant results for their clients at the Federal level, in 21 states, and dozens of cities and counties. That entity was sold to a much larger international firm. He started as a staff member on the Hill, rapidly rising to become a senior member of staff supporting one of the highest ranked senators in Majority Leadership at that time.  In that role, he worked with hundreds of community & economic development groups, municipal & state leaders, and trade associations. This broad and deep network of long-standing relationships has allowed him to work effectively and successfully with 3 different presidential administrations over the last 2 decades."
                 image={require('../images/tbd.png')} />
             <div className="AdvisorsIntro">
-                <h1>Our Advisory Team</h1>
+                <h1>Advisors</h1>
             </div>
             <Bio
                 image={require('../images/bill-image.jpg')}

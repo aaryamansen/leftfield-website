@@ -28,7 +28,7 @@ const TeamPreview = props => (
                 </div>
             </div>
             <div className="AdvisorsIntroP">
-                <h1>Our Advisory Team</h1>
+                <h1>Advisors</h1>
                 <div className="ACont">
                     <BioPreview
                         image={require('../images/bill-image.jpg')}
