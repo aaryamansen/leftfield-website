@@ -32,7 +32,7 @@ class Header extends React.Component {
         <div className="HeaderGroup">
             <Link to="/"><img src={require('../images/leftfield-logo.png')} width="160" /></Link>
             <div className="NavLinks">
-                <Link to="/services">Services</Link>, <Link to="/team">Team</Link>
+                <Link to="/services">Services</Link>, <Link to="/team">Team</Link>, <a href="#Contact">Contact</a>
             </div>
         </div>
       </div>
