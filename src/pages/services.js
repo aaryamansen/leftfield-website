@@ -19,10 +19,10 @@ const ServicesPage = () => (
         By helping clients identify and successfully engage with enterprise clients in the public and private sectors, the team at LFS has delivered $750 Million in contracts to clients over the last decade.
         <br />
         <br />
-        LFS specializes in helping companies expand their business development and revenue generation activities in some of the largest economic areas in the world: the United States, the European Union, S-E Asia, and India.
+        LFS specializes in helping companies expand their business development and revenue generation activities in some of the largest economic areas in the world: the United States, the European Union, South East Asia, and India.
         <br />
         <br />
-        The LFS team has 20 years of experience in successfully creating opportunities and winning orders from almost every department and agency of the Federal government, 21 states,and dozens of s state agencies local and municipal governments.  Over the last decade, the team has delivered $500 Million in revenues for our clients from government and agency engagements.
+        The LFS team has 20 years of experience in successfully creating opportunities and winning orders from almost every department and agency of the Federal government, 21 states, and dozens of state agencies and local and municipal governments. Over the last decade, the team has delivered $500 Million in revenues for our clients from government and agency engagements.
         <br />
         <br />
         The team has also delivered over $250 Million in revenues for clients from some of the largest global firms in Healthcare, Financial Services, Telecommunications, Defense, and Information Technology.
