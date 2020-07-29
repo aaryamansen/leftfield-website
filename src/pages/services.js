@@ -53,7 +53,7 @@ const ServicesPage = () => (
         In the US, delivered approximately $400M in government subsidies including grants, low interest loans, tax credits, tax abatements and earmarks
         <br/>
         <ul>
-          <li>worked in twenty-three different US States</li>
+          <li>worked in twenty-one different US States</li>
           <li>worked with three different Presidential administrations from both parties</li>
         </ul>
         <p>
