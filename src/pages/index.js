@@ -48,7 +48,6 @@ const IndexPage = () => (
       </div>
     </div>
 
-    <Clients />
     <TeamPreview />
     <Contact />
 
