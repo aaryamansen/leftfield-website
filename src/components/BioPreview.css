@@ -43,3 +43,8 @@
     width: 360px;
 }
 
+@media (max-width: 600px) {
+    .BioPImage {
+        width: 200px;
+    }
+}

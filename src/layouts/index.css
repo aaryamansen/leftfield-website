@@ -282,4 +282,20 @@ a {
         padding-top: 1rem;
         margin-bottom: 80px;
     }
+
+    .ServICard {
+        height: 200px;
+    }
+
+    .ServICard h1 {
+        font-size: 4rem;
+    }
+
+    .TeamICard {
+        height: 200px;
+    }
+
+    .TeamICard h1 {
+        font-size: 4rem;
+    }
 }
