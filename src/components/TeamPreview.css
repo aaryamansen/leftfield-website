@@ -91,7 +91,10 @@
 
     .CoreTeamP {
         margin-top: 80px;
+        padding: 2rem 2rem;
     }
+
+    
 
     .CoreTeamP h1 {
         font-size: 2rem;
