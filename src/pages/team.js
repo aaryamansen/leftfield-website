@@ -13,9 +13,6 @@ const TeamPage = () => (
         <h1>Team</h1>
     </div>
     <br />
-    <br />
-    <br />
-    <br />
     <Team />
     <Contact />
   </div>
