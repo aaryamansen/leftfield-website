@@ -36,11 +36,19 @@
 
 }
 
+.NavLinks a:nth-child(4) {
+    display: none;
+}
+
 .Header a {
     font-size: 1.5rem;
     color: black;
     font-weight: 400;
     text-decoration: none;
+}
+
+.logoimg {
+    width: 160px;
 }
 
 @media (max-width: 640px) {
@@ -53,19 +61,21 @@
     }
 
     .HeaderGroup {
-        grid-template-columns: repeat(4, auto);
+        grid-template-columns: repeat(3, auto);
         font-size: 0.5rem;
     }
-
-    .NavLinks a:nth-child(1) {
-        display: none;
+    
+    .Header a {
+        font-size: 1.2rem;
+        color: black;
+        font-weight: 400;
     }
 
-    .NavLinks a:nth-child(2) {
-        display: none;
+    .NavLinks {
+        text-align: center;
     }
 
-    .NavLinks a:nth-child(3) {
-        display: none;
+    .logoimg {
+        width: 120px;
     }
 }
