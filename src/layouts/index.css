@@ -132,7 +132,7 @@ a {
 }
 
 .ServPageContainer h1 {
-    font-size: 4rem;
+    font-size: 8rem;
     text-align: center;
 }
 
@@ -245,6 +245,7 @@ a {
         margin: 2rem 2rem;
     }
 
+
     .TwoColText {
         padding: 2rem 2rem 0 2rem;
     }
@@ -299,5 +300,12 @@ a {
 
     .TeamICard h1 {
         font-size: 4rem;
+    }
+}
+
+@media (max-width: 480px) {
+
+    .ServPageContainer h2 {
+        font-size: 2rem;
     }
 }

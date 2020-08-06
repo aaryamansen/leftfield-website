@@ -42,3 +42,10 @@
 
 
 }
+
+
+@media (max-width: 480px) {
+    .CoreTeam h1 {
+        font-size: 2rem;
+    }
+}
