@@ -92,6 +92,14 @@
         flex-direction: column;
     }
 
+    .Bio h1 {
+        font-size: 2rem;
+    }
+
+    .Bio p {
+        font-size: 1.5rem;
+    }
+
     .BioImage {
         width: 60vw;
         margin-bottom: 40px;
