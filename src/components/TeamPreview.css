@@ -63,14 +63,37 @@
     column-gap: 40px;
 }
 
-@media (max-width: 960px) {
+@media (max-width: 1200px) {
+
+    .ACont {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .TCont {
+        grid-template-columns: 1fr 1fr;
+    }
+
+
+}
+
+@media (max-width: 600px) {
     .ACont {
         display: flex;
         flex-direction: column;
+        align-items: center;
     }
 
     .TCont {
         display: flex;
         flex-direction: column;
+        align-items: center;
+    }
+
+    .CoreTeamP {
+        margin-top: 80px;
+    }
+
+    .CoreTeamP h1 {
+        font-size: 2rem;
     }
 }
