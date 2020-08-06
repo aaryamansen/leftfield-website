@@ -4,7 +4,7 @@ import './Bio.css'
 const Bio = props => (
     <div className="BioContainer">
         <div className="Bio">
-            <img width="400" src={props.image} />
+            <img className="BioImage" src={props.image} />
             <div className="BioText">
                 <h1>{props.name}</h1>
                 <h3>{props.position}</h3>

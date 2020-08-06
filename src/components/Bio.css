@@ -65,6 +65,10 @@
     cursor: pointer;
 }
 
+.BioImage {
+    width: 400px;
+}
+
 .LiImage {
     margin: auto;
 }
@@ -88,9 +92,12 @@
         flex-direction: column;
     }
 
-    .bigimg {
-        width: 70vw;
+    .BioImage {
+        margin-bottom: 40px;
     }
     
+    .bigimg {
+        width: 80vw;
+    }
 
 }

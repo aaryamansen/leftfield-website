@@ -222,23 +222,64 @@ a {
     .Growth {
         display: flex;
         flex-direction: column;
+        margin-bottom: 0;
     }
 
     .GrowthImg {
-        width: 400px;
+        width: 60vw;
     }
 
     .Govt {
         display: flex;
         flex-direction: column;
-        margin-bottom: 2.5rem;
+        margin-bottom: 0;
     }
 
     .GovtImg {
-        width: 400px;
+        width: 60vw;
     }
 
     .ServPageContainer {
-        margin: 4rem 4rem;
+        margin: 2rem 2rem;
+    }
+
+    .TwoColText {
+        padding: 2rem 4rem 0 4rem;
+    }
+
+    .TwoColText h1 {
+        font-size: 2rem;
+        font-weight: 800;
+    }
+    
+    .TwoColText p {
+        font-size: 1.5rem;
+        font-weight: 400;
+    }
+    
+    .TwoColText h4 {
+        font-family: monospace;
+        font-size: 1.5rem;
+        font-weight: 400;
+    }
+    
+    .TwoColText h5 {
+        font-size: 1.5rem;
+        font-weight: 600;
+        color: #23359F;
+    }
+
+    .GovtImgC {
+        vertical-align: top;
+        text-align: center;
+        padding-top: 1rem;
+        margin-bottom: 80px;
+    }
+
+    .GrowthImgC {
+        vertical-align: top;
+        text-align: center;
+        padding-top: 1rem;
+        margin-bottom: 80px;
     }
 }

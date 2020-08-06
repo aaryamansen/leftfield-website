@@ -4,7 +4,7 @@ import './BioPreview.css'
 const BioPreview = props => (
     <div className="BPCont">
         <div className="BioP">
-            <img height="360" src={props.image} />
+            <img className="BioPImage" src={props.image} />
             <br />
             <h1>{props.name}</h1>
             <br />
